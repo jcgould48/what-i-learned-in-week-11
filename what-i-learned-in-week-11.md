@@ -22,4 +22,14 @@ We also went into html elements with multiple classes.
 ```javascript
 .classlist
 ```
-Using this can allow you to alter the classes within an element. We practic 
+Using this can allow you to alter the classes within an element. We practiced this with the exercise 'BS paint'.  Changing an element's class was necessary to alter the CSS on blocks that were clicked and thereby making a basic painting app.
+
+
+### Function Expressions
+Function expressions allow you to use functions as a variable which allows greater flexibility.  They should be similar to this format:
+
+```javascript
+const add = function(x, y) {
+  return x + y;
+}
+```
